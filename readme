@@ -1,0 +1,5 @@
+Installation:
+Copy config/database.php.examle to config/database.php and set actual parameters
+Copy config/facebook.php.example to config/facebook.php and set actual parameters
+Point document root to public/
+Import dump.sql into database
