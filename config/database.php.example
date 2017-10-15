@@ -1,0 +1,9 @@
+<?php
+    $config = array(
+        'dbhost' => '127.0.0.1',
+        'dbname' => 'socialsweethearts',
+        'dbuser' => 'homestead',
+        'dbpass' => 'secret'
+    );
+
+    return $config;

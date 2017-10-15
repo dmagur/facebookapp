@@ -1,0 +1,8 @@
+<?php
+$config = array(
+    'app_id' => '379356809165334',
+    'app_secret' => '3a26fedd3f3ffe77ced22fc5a35a236d',
+    'graph_version' => 'v2.10',
+);
+
+return $config;
